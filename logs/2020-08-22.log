@@ -1,0 +1,1449 @@
+2020-08-22 12:04:42 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 12:04:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:04:43 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 12:04:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:04:43 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 12:04:43 I/Net 2273497560: Login successful
+2020-08-22 12:04:43 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 12:04:43 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 12:04:43 I/Net 2273497560: 开始加载好友信息
+2020-08-22 12:04:43 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 12:04:43 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 12:04:43 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 12:04:43 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 12:04:43 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 12:04:43 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 12:04:43 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:43 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 12:04:44 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 12:04:44 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 12:04:44 I/Net 2273497560: Syncing friend message history...
+2020-08-22 12:04:44 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 12:04:44 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 12:04:45 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 12:04:45 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 12:04:46 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 12:04:46 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 12:04:46 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 12:04:46 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 12:05:43 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:05:44 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:06:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:06:44 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:07:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:07:44 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:08:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:08:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:09:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:09:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:10:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:10:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:11:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:11:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:12:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:12:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:13:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:13:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:14:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:14:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:15:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:15:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:16:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:16:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:17:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:17:49 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:18:49 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:18:49 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:19:23 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:19:31 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:19:49 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:19:50 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:20:50 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:20:50 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:21:28 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 12:21:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:21:28 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 12:21:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:21:28 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 12:21:28 I/Net 2273497560: Login successful
+2020-08-22 12:21:28 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 12:21:29 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 12:21:29 I/Net 2273497560: Syncing friend message history...
+2020-08-22 12:21:29 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 12:21:29 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 12:21:29 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 12:21:32 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 12:21:32 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 12:21:32 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 12:21:57 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:21:58 V/Net 2273497560: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@7d8aac44
+2020-08-22 12:21:58 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 12:22:06 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:22:29 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:22:29 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:22:35 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:22:43 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:23:29 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:23:29 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:23:41 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:23:49 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:24:29 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:24:30 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:25:30 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:25:30 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:26:30 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:26:31 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:27:31 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:27:31 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:27:31 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:27:40 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:28:31 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:28:32 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:28:55 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:29:04 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:29:32 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:29:32 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:30:32 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:30:33 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:31:14 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:31:22 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:31:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:31:33 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:32:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:32:33 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:33:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:33:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:34:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:34:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:35:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:35:35 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:36:35 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:36:35 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:37:21 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:37:30 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 12:37:35 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:37:35 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:38:14 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 12:38:14 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:38:14 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 12:38:14 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 12:38:14 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 12:38:14 I/Net 2273497560: Login successful
+2020-08-22 12:38:14 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 12:38:15 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 12:38:15 I/Net 2273497560: Syncing friend message history...
+2020-08-22 12:38:15 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 12:38:15 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 12:38:15 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 12:38:18 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 12:38:18 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 12:38:18 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 12:39:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:39:15 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:40:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:40:15 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 12:41:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 12:41:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:10:55 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 18:10:55 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:10:55 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:10:55 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:10:55 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:10:55 I/Net 2273497560: Login successful
+2020-08-22 18:10:55 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:10:55 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:10:55 I/Net 2273497560: 开始加载好友信息
+2020-08-22 18:10:55 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 18:10:55 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:10:55 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 18:10:55 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 18:10:55 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:55 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:10:56 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:10:56 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 18:10:56 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 18:10:56 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:10:56 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:10:57 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 18:10:57 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:10:58 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:10:58 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:10:58 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 18:10:58 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:10:58 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:10:58 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:11:28 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 18:11:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:11:28 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:11:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:11:29 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:11:29 I/Net 2273497560: Login successful
+2020-08-22 18:11:29 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:11:29 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:11:29 I/Net 2273497560: 开始加载好友信息
+2020-08-22 18:11:29 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:11:29 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 18:11:29 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:30 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:30 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:11:30 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:11:30 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 18:11:30 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 18:11:30 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:11:30 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:11:30 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 18:11:30 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:11:32 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:11:32 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:11:32 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 18:13:10 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 18:13:11 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:13:11 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:13:11 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:13:14 E/Net 2273497560: Exception in NetworkHandler
+java.lang.IllegalStateException: Cannot find error message, unknown login result type: 180, TLVMap = {0x00000161(353)=00 01 01 72 00 18 FB 2E CD 0E 51 CB DF 45 24 69 04 6C 16 3E 4B 78 E0 80 A2 B7 B7 CD 40 4F}
+	at net.mamoe.mirai.qqandroid.network.protocol.packet.login.WtLogin$Login.decode(WtLogin.kt:322)
+	at net.mamoe.mirai.qqandroid.network.protocol.packet.KnownPacketFactories.parseOicqResponse(PacketFactory.kt:601)
+	at net.mamoe.mirai.qqandroid.network.protocol.packet.KnownPacketFactories.handleIncomingPacket$mirai_core_qqandroid(PacketFactory.kt:285)
+	at net.mamoe.mirai.qqandroid.network.protocol.packet.KnownPacketFactories.parseIncomingPacket(PacketFactory.kt:237)
+	at net.mamoe.mirai.qqandroid.network.QQAndroidBotNetworkHandler.generifiedParsePacket(QQAndroidBotNetworkHandler.kt:485)
+	at net.mamoe.mirai.qqandroid.network.QQAndroidBotNetworkHandler.parsePacket(QQAndroidBotNetworkHandler.kt:480)
+	at net.mamoe.mirai.qqandroid.network.QQAndroidBotNetworkHandler$parsePacketAsync$1.invokeSuspend(QQAndroidBotNetworkHandler.kt:463)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+
+2020-08-22 18:13:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:13:16 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:13:16 I/Net 2273497560: Login successful
+2020-08-22 18:13:16 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:13:16 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:13:16 I/Net 2273497560: 开始加载好友信息
+2020-08-22 18:13:16 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 18:13:16 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:13:16 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 18:13:16 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 18:13:16 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:13:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:13:17 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 18:13:17 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 18:13:17 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:13:17 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:13:17 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 18:13:17 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:13:19 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:13:19 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:13:19 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:13:19 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 18:14:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:14:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:15:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:15:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:16:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:16:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:17:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:17:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:18:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:18:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:19:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:19:19 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:21:15 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 18:21:15 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:21:16 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:21:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:21:17 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:21:17 I/Net 2273497560: Login successful
+2020-08-22 18:21:17 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:21:17 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:21:17 I/Net 2273497560: 开始加载好友信息
+2020-08-22 18:21:17 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 18:21:17 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 18:21:17 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 18:21:17 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:21:17 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 18:21:17 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 18:21:17 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:17 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:18 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:19 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:19 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 18:21:19 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 18:21:19 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 18:21:19 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 18:21:19 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:21:19 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:21:19 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 18:21:19 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:21:20 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:21:20 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:21:20 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 18:21:20 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:21:20 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:21:20 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:22:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:22:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:23:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:23:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:24:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:24:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:25:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:25:18 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 18:25:18 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:25:23 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:25:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:25:33 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:25:33 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:25:38 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:25:38 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:25:38 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:25:38 I/Net 2273497560: Login successful
+2020-08-22 18:25:38 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:25:38 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:25:38 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:25:38 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:25:38 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:25:38 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:25:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:25:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:25:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:25:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:25:42 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:25:43 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:25:43 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:25:47 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:25:47 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:26:38 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:26:39 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:27:39 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:27:39 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:27:40 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:27:40 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:27:40 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:27:40 I/Net 2273497560: Login successful
+2020-08-22 18:27:40 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:27:40 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:27:40 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:27:40 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:27:41 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:27:43 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:27:43 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:27:43 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:28:40 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:28:41 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:29:41 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:29:41 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:29:41 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:29:41 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:29:42 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:29:42 I/Net 2273497560: Login successful
+2020-08-22 18:29:42 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:29:42 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:29:42 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:29:42 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:29:42 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:29:45 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:29:45 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:29:45 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:30:42 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:30:42 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:31:42 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:31:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:31:45 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:31:45 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:31:45 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:31:45 I/Net 2273497560: Login successful
+2020-08-22 18:31:45 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:31:45 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:31:45 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:31:45 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:31:45 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:31:48 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:31:48 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:31:48 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:32:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:32:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:33:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:33:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:34:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:34:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:35:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:35:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:36:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:36:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:37:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:37:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:38:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:38:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:39:48 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:39:49 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:39:52 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:39:52 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:39:52 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:39:52 I/Net 2273497560: Login successful
+2020-08-22 18:39:52 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:39:52 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:39:52 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:39:52 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:39:53 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:39:55 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:39:55 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:39:56 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:40:52 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:40:58 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:41:03 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:41:08 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:41:11 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:41:11 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:41:11 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:41:11 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:42:11 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:42:13 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:43:13 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:43:14 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:44:14 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:44:14 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:45:14 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:45:15 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:46:15 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:46:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:46:16 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:46:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:46:16 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:46:16 I/Net 2273497560: Login successful
+2020-08-22 18:46:16 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:46:16 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:46:16 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:46:16 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:46:17 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:46:20 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:46:20 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:46:20 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:47:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:47:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:48:17 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:48:17 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:48:18 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:48:18 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:48:18 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:48:18 I/Net 2273497560: Login successful
+2020-08-22 18:48:18 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:48:18 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:48:18 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:48:18 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:48:19 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:48:21 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:48:21 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:49:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:49:19 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:50:18 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:50:19 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:50:20 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:50:20 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:50:20 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:50:20 I/Net 2273497560: Login successful
+2020-08-22 18:50:20 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:50:21 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:50:21 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:50:21 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:50:21 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:50:24 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:51:21 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:51:21 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:52:21 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:52:21 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:52:22 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:52:22 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:52:23 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:52:23 I/Net 2273497560: Login successful
+2020-08-22 18:52:23 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:52:23 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:52:23 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:52:23 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:52:24 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:52:26 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:52:26 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:52:27 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:53:23 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:53:24 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:54:24 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:54:29 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:54:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:54:39 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:54:43 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 18:54:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:54:43 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 18:54:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 18:54:43 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 18:54:43 I/Net 2273497560: Login successful
+2020-08-22 18:54:43 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 18:54:44 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 18:54:44 I/Net 2273497560: Syncing friend message history...
+2020-08-22 18:54:44 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 18:54:44 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 18:54:46 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:54:46 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:54:47 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 18:54:47 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 18:54:47 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 18:55:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:55:44 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:56:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:56:44 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:57:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:57:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:58:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:58:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 18:59:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 18:59:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:00:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:00:46 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:01:46 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:01:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:02:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:02:47 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:03:47 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:03:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:04:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:04:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:05:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:05:48 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:06:48 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:06:49 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:07:49 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:07:49 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:08:49 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:08:50 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:09:50 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:09:50 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:10:50 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:10:51 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:11:29 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 19:11:29 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:11:29 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:11:29 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:11:30 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:11:30 I/Net 2273497560: Login successful
+2020-08-22 19:11:30 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:11:30 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:11:30 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:11:30 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:11:30 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:11:33 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:11:33 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:11:33 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:12:30 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:12:32 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:13:32 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 19:13:32 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:13:35 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:13:35 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:13:38 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:13:38 I/Net 2273497560: Login successful
+2020-08-22 19:13:38 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:13:38 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:13:38 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:13:38 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:13:39 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:13:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:13:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:13:41 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:14:38 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:14:39 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:15:38 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 19:15:39 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:15:40 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:15:40 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:15:41 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:15:41 I/Net 2273497560: Login successful
+2020-08-22 19:15:41 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:15:41 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:15:41 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:15:41 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:15:42 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:15:44 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:15:44 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:15:44 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:16:41 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:16:43 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:17:43 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 19:17:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:17:43 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:17:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:17:44 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:17:44 I/Net 2273497560: Login successful
+2020-08-22 19:17:44 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:17:44 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:17:44 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:17:44 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:17:45 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:17:47 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:17:47 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:17:47 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:18:44 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:18:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:19:44 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 19:19:45 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:19:50 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:19:55 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:00 I/Net 2273497560: Connected to server 42.81.172.81:80
+2020-08-22 19:20:00 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:05 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:10 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:15 I/Net 2273497560: Connected to server 114.221.148.59:14000
+2020-08-22 19:20:15 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:20 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:25 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:30 I/Net 2273497560: Connected to server 42.81.172.147:443
+2020-08-22 19:20:30 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:32 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:20:32 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:20:32 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:20:32 I/Net 2273497560: Login successful
+2020-08-22 19:20:32 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:20:32 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:20:32 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:20:32 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:20:32 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:20:32 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:20:32 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:20:32 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:20:32 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:20:32 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:20:32 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:20:33 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:20:33 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:20:33 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:20:35 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:20:35 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:20:35 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:21:32 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:21:33 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:22:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:22:33 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:23:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:23:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:24:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:24:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:25:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:25:35 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:26:35 I/Net 2273497560: Connected to server 42.81.172.147:443
+2020-08-22 19:26:35 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:26:37 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:26:37 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:26:38 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:26:38 I/Net 2273497560: Login successful
+2020-08-22 19:26:38 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:26:38 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:26:38 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:26:38 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:26:38 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:26:41 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:26:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:26:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:27:38 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:27:38 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:28:38 I/Net 2273497560: Connected to server 42.81.172.147:443
+2020-08-22 19:28:39 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:28:44 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:28:49 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:28:54 I/Net 2273497560: Connected to server 125.94.60.146:80
+2020-08-22 19:28:54 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:28:59 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:29:04 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:29:04 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:29:04 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:29:05 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:29:05 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:29:05 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:29:05 I/Net 2273497560: Login successful
+2020-08-22 19:29:05 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:29:05 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:29:05 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:29:05 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:29:05 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:29:05 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:29:06 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:29:06 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:29:08 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:29:08 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:29:08 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:29:08 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:29:08 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:30:05 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:30:06 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:30:46 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 19:30:55 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 19:31:06 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:31:06 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:32:06 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:32:06 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:33:06 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:33:07 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:34:07 I/Net 2273497560: Connected to server 125.94.60.146:80
+2020-08-22 19:34:07 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:34:12 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:34:12 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:34:12 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:34:12 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:34:13 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:34:13 I/Net 2273497560: Login successful
+2020-08-22 19:34:13 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:34:13 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:34:13 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:34:13 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:34:13 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 19:34:13 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:34:16 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:34:16 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:34:16 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:35:13 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:35:13 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:36:13 I/Net 2273497560: Connected to server 125.94.60.146:80
+2020-08-22 19:36:13 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:36:18 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:36:22 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:36:22 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:36:22 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:36:22 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:36:22 I/Net 2273497560: Login successful
+2020-08-22 19:36:22 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:36:23 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:36:23 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:36:23 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:36:23 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:36:26 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:36:26 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:36:26 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:37:23 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:37:23 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:38:23 I/Net 2273497560: Connected to server 125.94.60.146:80
+2020-08-22 19:38:23 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:33 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:38 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:38:38 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:43 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:44 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:38:44 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:38:44 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:38:44 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:38:44 I/Net 2273497560: Login successful
+2020-08-22 19:38:44 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:38:45 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:38:45 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:38:45 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:38:45 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:38:45 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:38:45 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:38:45 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:38:48 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:38:48 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:38:48 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:38:48 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:38:48 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:39:45 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:39:45 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:40:45 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:40:45 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:40:50 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:40:51 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:40:51 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:40:51 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:40:51 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:40:51 I/Net 2273497560: Login successful
+2020-08-22 19:40:51 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:40:52 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:40:52 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:40:52 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:40:52 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:40:55 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:40:55 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:40:55 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:41:52 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:41:52 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:42:52 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:42:53 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:43:53 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:43:53 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:44:53 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:44:54 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:44:54 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:44:54 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:44:55 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:44:55 I/Net 2273497560: Login successful
+2020-08-22 19:44:55 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:44:55 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:44:55 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:44:55 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:44:55 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:44:58 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:44:58 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:44:58 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:45:55 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:45:55 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:46:55 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:46:56 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:47:01 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:47:02 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:47:02 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:47:02 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:47:03 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:47:03 I/Net 2273497560: Login successful
+2020-08-22 19:47:03 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:47:03 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:47:03 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:47:03 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:47:03 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:47:06 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:47:06 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:47:06 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:48:03 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:48:04 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:49:04 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:49:04 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:49:05 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:49:05 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:49:05 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:49:05 I/Net 2273497560: Login successful
+2020-08-22 19:49:05 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:49:05 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:49:05 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:49:05 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:49:06 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:49:08 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:49:08 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:49:08 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:50:05 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:50:06 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:51:05 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:51:06 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:51:11 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:51:15 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:51:15 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:51:15 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:51:15 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:51:15 I/Net 2273497560: Login successful
+2020-08-22 19:51:15 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:51:16 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:51:16 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:51:16 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:51:16 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:51:19 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:51:19 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:51:19 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:52:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:52:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:53:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:53:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:54:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:54:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:55:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:55:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:56:17 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:56:18 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:56:23 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:56:25 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:56:25 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:56:25 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:56:25 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:56:25 I/Net 2273497560: Login successful
+2020-08-22 19:56:25 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:56:26 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:56:26 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:56:26 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:56:26 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:56:28 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:56:29 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:56:29 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:57:26 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:57:26 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 19:58:26 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 19:58:26 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:58:31 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:58:32 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:58:32 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 19:58:32 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 19:58:33 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 19:58:33 I/Net 2273497560: Login successful
+2020-08-22 19:58:33 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 19:58:33 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 19:58:33 I/Net 2273497560: Syncing friend message history...
+2020-08-22 19:58:33 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 19:58:33 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 19:58:36 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 19:58:36 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 19:58:36 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 19:59:33 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 19:59:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:00:34 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:00:34 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:01:34 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:01:34 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:01:39 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:01:40 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:01:40 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:01:40 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:01:41 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:01:41 I/Net 2273497560: Login successful
+2020-08-22 20:01:41 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:01:41 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:01:41 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:01:41 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:01:41 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:01:44 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:01:44 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:01:44 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:02:41 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:02:41 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:02:47 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:02:55 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:03:41 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:03:42 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:04:42 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:04:42 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:05:42 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:05:42 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:05:47 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:05:49 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:05:49 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:05:49 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:05:50 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:05:50 I/Net 2273497560: Login successful
+2020-08-22 20:05:50 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:05:50 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:05:50 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:05:50 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:05:50 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:05:50 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:05:53 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:05:53 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:05:53 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:06:50 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:06:50 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:07:50 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:07:51 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:08:51 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:08:51 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:08:56 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:08:58 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:08:58 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:08:58 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:08:58 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:08:58 I/Net 2273497560: Login successful
+2020-08-22 20:08:58 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:08:59 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:08:59 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:08:59 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:08:59 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:09:02 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:09:02 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:09:02 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:09:24 V/Net 2273497560: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@1c49e7
+2020-08-22 20:09:24 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:09:24 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:09:33 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:09:59 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:09:59 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:10:26 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:10:34 V/Net 2273497560: Send: OnlinePush.RespPush
+2020-08-22 20:10:59 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:10:59 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:11:59 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:12:00 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:12:59 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:13:00 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:13:04 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:13:04 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:13:04 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:13:04 I/Net 2273497560: Login successful
+2020-08-22 20:13:04 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:13:04 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:13:04 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:13:04 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:13:04 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:13:04 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:13:07 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:13:07 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:13:07 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:14:04 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:14:05 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:15:04 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:15:05 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:15:10 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:15:11 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:15:11 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:15:11 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:15:11 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:15:11 I/Net 2273497560: Login successful
+2020-08-22 20:15:11 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:15:14 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:15:15 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:15:15 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:15:15 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:15:15 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:15:16 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:15:18 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:15:18 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:15:18 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:16:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:16:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:17:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:17:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:18:17 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:18:18 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:18:23 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:18:23 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:18:23 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:18:24 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:18:24 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:18:24 I/Net 2273497560: Login successful
+2020-08-22 20:18:24 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:18:25 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:18:25 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:18:25 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:18:26 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:18:27 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:18:28 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:18:28 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:19:25 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:19:25 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:20:25 I/Net 2273497560: Connected to server 114.221.144.215:80
+2020-08-22 20:20:25 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:25:49 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 20:25:49 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:25:52 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:25:52 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:25:53 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:25:53 I/Net 2273497560: Login successful
+2020-08-22 20:25:54 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:25:57 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:26:00 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:26:03 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 20:26:03 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:03 I/Net 2273497560: Connected to server 42.81.169.46:8080
+2020-08-22 20:26:03 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:03 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:26:03 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:04 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:26:04 I/Net 2273497560: Login successful
+2020-08-22 20:26:04 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:26:04 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:26:04 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:26:04 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:26:04 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:26:04 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:26:04 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:26:04 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:26:04 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:26:04 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:26:08 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:13 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 20:26:13 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:13 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:26:13 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:26:13 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:26:13 I/Net 2273497560: Login successful
+2020-08-22 20:26:13 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:26:13 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:26:13 I/Net 2273497560: 开始加载好友信息
+2020-08-22 20:26:13 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 20:26:13 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 20:26:13 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 20:26:13 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 20:26:13 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 20:26:14 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:14 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:14 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:26:15 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:26:15 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 20:26:15 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:26:15 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 20:26:15 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:26:15 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:26:15 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:26:16 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:26:16 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:26:16 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 20:26:16 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:26:16 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:26:16 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:27:13 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:27:14 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:28:14 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:28:14 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:29:14 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:29:14 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:30:14 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:30:15 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:31:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:31:15 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:32:15 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:32:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:33:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:33:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:34:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:34:16 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:35:16 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:35:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:36:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:36:17 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:37:17 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:37:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:38:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:38:18 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:39:18 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:39:19 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:40:19 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:40:19 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:41:19 V/Net 2273497560: Send: Heartbeat.Alive
+2020-08-22 20:41:19 V/Net 2273497560: Recv: Heartbeat.Alive.Response
+2020-08-22 20:53:37 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 20:53:37 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:53:38 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 20:53:38 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 20:53:38 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 20:53:38 I/Net 2273497560: Login successful
+2020-08-22 20:53:38 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 20:53:38 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 20:53:38 I/Net 2273497560: 开始加载好友信息
+2020-08-22 20:53:38 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 20:53:38 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 20:53:38 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:38 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:39 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:39 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:39 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:39 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 20:53:39 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 20:53:39 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 20:53:39 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 20:53:39 I/Net 2273497560: Syncing friend message history...
+2020-08-22 20:53:39 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 20:53:39 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 20:53:39 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 20:53:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:53:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 20:53:41 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 20:53:41 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 20:53:41 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 20:53:41 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 23:12:28 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 23:12:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:12:28 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 23:12:28 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:12:28 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 23:12:28 I/Net 2273497560: Login successful
+2020-08-22 23:12:28 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 23:12:28 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 23:12:28 I/Net 2273497560: 开始加载好友信息
+2020-08-22 23:12:28 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 23:12:28 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 23:12:28 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:12:29 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 23:12:29 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:29 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:29 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:12:30 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:12:30 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 23:12:30 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 23:12:30 I/Net 2273497560: Syncing friend message history...
+2020-08-22 23:12:30 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:12:30 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:12:30 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:12:30 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:12:30 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 23:12:31 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 23:12:31 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 23:12:31 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 23:12:31 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 23:12:32 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 23:12:32 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 23:13:25 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 23:13:26 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:13:26 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 23:13:26 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:13:26 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 23:13:26 I/Net 2273497560: Login successful
+2020-08-22 23:13:26 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 23:13:26 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 23:13:26 I/Net 2273497560: 开始加载好友信息
+2020-08-22 23:13:26 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 23:13:26 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 23:13:26 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 23:13:26 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:13:26 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 23:13:26 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:27 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:27 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:13:28 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:13:28 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 23:13:28 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 23:13:28 I/Net 2273497560: Syncing friend message history...
+2020-08-22 23:13:28 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:13:28 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:13:28 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:13:28 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:13:28 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 23:13:29 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 23:13:29 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 23:13:29 I/Net 2273497560: ConfigPushSvc.PushReq: Success
+2020-08-22 23:13:29 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 23:14:15 I/Net 2273497560: Connected to server msfwifi.3g.qq.com:8080
+2020-08-22 23:14:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:14:16 V/Net 2273497560: Recv: WtLogin.Login.LoginPacketResponse.DeviceLockLogin
+2020-08-22 23:14:16 V/Net 2273497560: Send: wtlogin.login
+2020-08-22 23:14:16 V/Net 2273497560: Recv: LoginPacketResponse.Success
+2020-08-22 23:14:16 I/Net 2273497560: Login successful
+2020-08-22 23:14:16 V/Net 2273497560: Send: StatSvc.register
+2020-08-22 23:14:16 V/Net 2273497560: Recv: Response(StatSvc.register)
+2020-08-22 23:14:16 I/Net 2273497560: 开始加载好友信息
+2020-08-22 23:14:16 I/Net 2273497560: 开始加载群组列表与群成员列表
+2020-08-22 23:14:16 V/Net 2273497560: Send: friendlist.getFriendGroupList
+2020-08-22 23:14:16 V/Net 2273497560: Send: friendlist.GetTroopListReqV2
+2020-08-22 23:14:16 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:14:16 V/Net 2273497560: 正在加载好友列表 2/2
+2020-08-22 23:14:16 I/Net 2273497560: 好友列表加载完成, 共 2个
+2020-08-22 23:14:16 V/Net 2273497560: Recv: FriendList.GetFriendGroupList.Response
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: OidbSvc.0x88d_7
+2020-08-22 23:14:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:16 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 V/Net 2273497560: Send: friendlist.GetTroopMemberListReq
+2020-08-22 23:14:17 V/Net 2273497560: Recv: FriendList.GetTroopMemberList.Response
+2020-08-22 23:14:17 I/Net 2273497560: 群组列表与群成员加载完成, 共 6个
+2020-08-22 23:14:17 I/Net 2273497560: Awaiting ConfigPushSvc.PushReq
+2020-08-22 23:14:17 I/Net 2273497560: Syncing friend message history...
+2020-08-22 23:14:17 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:14:17 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:14:17 V/Net 2273497560: Send: MessageSvc.PbGetMsg
+2020-08-22 23:14:17 V/Net 2273497560: Send: MessageSvc.PbDeleteMsg
+2020-08-22 23:14:17 I/Net 2273497560: Syncing friend message history: Success
+2020-08-22 23:14:19 D/Net 2273497560: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-08-22 23:14:19 V/Net 2273497560: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-08-22 23:14:19 V/Net 2273497560: Send: ConfigPushSvc.PushResp
+2020-08-22 23:14:19 I/Net 2273497560: ConfigPushSvc.PushReq: Success
